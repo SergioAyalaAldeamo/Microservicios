@@ -1,0 +1,41 @@
+body,html{
+    margin:0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-image: url(img/fondo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 600px;
+    background-attachment: fixed;
+    background-size: cover;
+    color:black;
+ }
+ .algo{
+
+   
+    border-radius: 5px;
+    padding: 15px;
+    width: 35%;
+    position: absolute;
+    background-position: center center;
+    top: 50%;
+    left:30%;
+    transform: translate(-50%,-50%)
+    
+ }
+
+ .algo2{
+
+    border:5px ;
+    border-radius: 5px;
+    padding: 20px;
+    width: 40%;
+    position: absolute;
+    background-position: center center;
+    top: 51%;
+    left:70%;
+    transform: translate(-50%,-50%)
+    
+ }
